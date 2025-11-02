@@ -1,5 +1,3 @@
-# 👋 Olá! Eu sou o Guilherme Arthur
-
 ### ⚙️ Tecnologias & Ferramentas
 - **Linguagens:** Java, Python, JavaScript  
 - **Frameworks:** Spring Boot, Spring Data JPA, Spring Security  
