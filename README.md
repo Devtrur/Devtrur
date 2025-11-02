@@ -1,11 +1,5 @@
 # 👋 Olá! Eu sou o Guilherme Arthur
 
-🎓 Estudante de **Ciência da Computação** na UNIP  
-💻 Desenvolvedor **Back-End** com foco em **Java** e **Spring Boot**  
-🚀 Apaixonado por **arquitetura de software**, **APIs REST**, e **integrações de sistemas**
-
----
-
 ### ⚙️ Tecnologias & Ferramentas
 - **Linguagens:** Java, Python, JavaScript  
 - **Frameworks:** Spring Boot, Spring Data JPA, Spring Security  
@@ -23,16 +17,6 @@ Atualmente, venho desenvolvendo projetos com **Spring Boot**, aplicando **REST A
 
 ---
 
-### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Devtrur&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devtrur&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 ### 🌐 Onde me encontrar
 [💼 LinkedIn](https://www.linkedin.com/in/guilherme-arthur-a805532ab/)  
 ✉️ **guilhearthur@hotmail.com**
-
----
-
-⭐ *“Back-end é sobre lógica, performance e confiabilidade — e é nisso que gosto de trabalhar.”*
